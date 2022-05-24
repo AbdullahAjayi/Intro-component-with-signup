@@ -6,9 +6,9 @@ This project is a soluton to the [ Intro component with sign up form challenge o
 
 ## Table of contents
 [Overview](#overview)
-    -[The challenge](#the-challenge)
-    -[Screenshots](#screenshot)
-    -[Built with](#built-with)
+[The challenge](#the-challenge)
+[Screenshots](#screenshot)
+[Built with](#built-with)
 ## Overview
 ### The challenge
 Users should be able to:
