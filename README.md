@@ -20,9 +20,9 @@ Users should be able to:
 
 ## Screenshot
 ### Desktop Design
-![This is an image showing what the page looks like desktop](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/mnmpkjsbvur3xvrydf66.jpg)
+![This is an image showing what the page looks like on desktop](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/mnmpkjsbvur3xvrydf66.jpg)
 ### Mobile Design
-![This is an image showing what the page looks like onn mobile devices](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/tl9ullre22nsowpqrffh.jpg)
+![This is an image showing what the page looks like on mobile devices](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/tl9ullre22nsowpqrffh.jpg)
 
 ## What I learnt
 I learnt a lot :rocket: :rocket: :rocket:
